@@ -21,8 +21,10 @@ The following are several functions in ~PyBT~
    Generate a list (pre-order) reflecting the binary tree.
 
    For instance, List `[2,1,'#','#',4,3,'#','#','#']` means the binary tree:
+   ```
        2
       / \
      1   4
         /
-       3    
+       3
+    ```
