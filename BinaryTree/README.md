@@ -2,9 +2,9 @@
 
 This is a repository containing some of the Binary tree problems I met. 
 
-` PyBT ` is a library that can be imported to facilitate debugging of binary tree problems.
+[` PyBT `](https://github.com/HaozheTian/Algorism_Practice/blob/main/BinaryTree/PyBT.py) is a library that can be imported to facilitate debugging of binary tree problems.
 
-You can use `PyBT` by the following command after placing the PyBT.py file in work directory: 
+You can use [` PyBT `](https://github.com/HaozheTian/Algorism_Practice/blob/main/BinaryTree/PyBT.py) by the following command after placing the PyBT.py file in work directory: 
 
 ```python
 import PyBT
