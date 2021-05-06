@@ -28,3 +28,5 @@ The following are several functions in ~PyBT~
         /
        3
     ```
+
+There are many ways to loop over a binary tree, such as BFS
