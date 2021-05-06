@@ -29,4 +29,4 @@ The following are several functions in ~PyBT~
        3
     ```
 
-There are many ways to loop over a binary tree, such as BFS
+There are many ways to loop over a binary tree, such as [BFS](https://github.com/HaozheTian/Algorism_Practice/blob/main/BinaryTree/3_BFS.ipynb)
