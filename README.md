@@ -6,3 +6,4 @@ such as:
 - [Stack Operations](https://github.com/HaozheTian/Algorism_Practice/tree/main/StackOperations)
 - [`collections` library and the sort function for dictionaries](https://github.com/HaozheTian/Algorism_Practice/tree/main/CollectionAndSort)
 - [Binary Operations](https://github.com/HaozheTian/Algorism_Practice/tree/main/BinaryOperations)
+- [Hash Table](https://github.com/HaozheTian/Algorism_Practice/tree/main/HashTable)
